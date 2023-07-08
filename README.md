@@ -42,6 +42,6 @@ Curso Sistemas de Informação pela Universidade Federal de Ouro Preto!<br>Inter
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=marianavieiras&icon=3&color=8)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/marianavieiras/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marianavieiras/marianavieiras/blob/output/github-contribution-grid-snake.svg)
 
 
