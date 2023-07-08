@@ -1,13 +1,17 @@
- Profile-user
- 💫 About Me:
-curso Sistemas de Informação pela Universidade Federal de Ouro Preto!<br>Interessada em desenvolvimento de soluções tecnológicas eficientes. <br><br>Atualmente aprofundando em análise e mineração de dados, e sempre buscando oportunidades para aplicar meus conhecimentos em programação com intuito em desenvolver habilidades práticas na área. <br>Com comprometimento em aprender e aplicar habilidades práticas para impulsionar resultados positivos.
+# 💫 About Me:
+Curso Sistemas de Informação pela Universidade Federal de Ouro Preto!<br>Interessada em desenvolvimento de soluções tecnológicas eficientes.Atualmente aprofundando em análise e mineração de dados, e sempre buscando oportunidades para aplicar meus conhecimentos em programação com intuito em desenvolver habilidades práticas na área.<br>Com comprometimento em aprender e aplicar habilidades práticas para impulsionar resultados positivos.
 
 
-🌐 
-  <a href="https://www.instagram.com/mariana_vieiras/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+# 🌐 Socials:
+<a href="https://www.instagram.com/mariana_vieiras/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marianavieira5775@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-vieira-17b1b6237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marianavieiras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marianavieiras&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianavieiras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
  ⚙ My skills
 <div style="display: inline_block"><br>
@@ -32,19 +36,12 @@ curso Sistemas de Informação pela Universidade Federal de Ouro Preto!<br>Inter
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">  
   </div>
   
- 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marianavieiras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marianavieiras&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianavieiras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marianavieiras&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marianavieiras&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=marianavieiras&icon=3&color=8)](https://visitcount.itsvg.in)
+
 
 
